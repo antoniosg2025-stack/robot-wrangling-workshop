@@ -1,0 +1,3 @@
+Stage,MatchedRows,UnmatchedRows
+Before normalization,333,667
+After normalization,1000,0

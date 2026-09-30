@@ -1,0 +1,5 @@
+MergeType,TotalRows,MatchedRows,RobotOnlyRows,ShopOnlyRows
+left,39672,39672,0,0
+inner,39672,39672,0,0
+right,39674,39672,0,2
+outer,39674,39672,0,2

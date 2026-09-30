@@ -1,0 +1,7 @@
+Check,Result
+Missing or invalid timestamps,0
+Duplicate valid timestamps,0
+Chronological order,True
+First timestamp (UTC),2022-10-17 12:18:23.660000+00:00
+Last timestamp (UTC),2022-10-18 10:44:58.628000+00:00
+Observed time span,0 days 22:26:34.968000

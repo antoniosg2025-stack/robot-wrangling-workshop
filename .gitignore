@@ -1,0 +1,11 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local Python environment and notebook checkpoints
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+.venv-check/
